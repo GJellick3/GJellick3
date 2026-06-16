@@ -1,0 +1,13 @@
+This is the ReadMe for my Enhancement of Software Design.
+
+Specifically, it pretty much just goes over what my 3-2 Milestone does.
+
+For this milestone, I made enhancements to my Weight Tracking application from CS-360.
+I wanted to change how the information on the weight/date was prompted, so I made adjustments to the code in order to fix the appeal of the data. 
+
+Within Activity_Data.xml:
+	I didn’t change too much, just made the button for the input a little bit cleaner, as well as fixed some spacing issues. I did this by adding a new, more modular section to the code called MaterialCardView, which draws on Android's material library and creates a card view for the weight and date entry. The same was done for the actual display of the data after being entered as well.
+
+Within WeightAdapter.java:
+	I added the imports for annotation and RecyclerView because I did not have them previously. I then called the new cardWeight method in the WeightViewHolder class that I had previously. I then gave my build viewer a simple if/else to make it change the color of the card based on whether it is even or odd. 
+
