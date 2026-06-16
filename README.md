@@ -4,7 +4,7 @@ Hello any and all viewers. This is my (Gaidge Jellick) portfolio for my Computer
 
 It covers a specific set of enhancements I made to one of my previous final projects on a weight-tracking application. These enhancements not only show off my skills and knowledge from what college has taught me, but also how my brain thinks as a computer science major. 
 
-Within this space, you will find 2 Major Files. 
+Within this space, you will find 4 major files and a handful of ReadMe's. 
 
 The first is the Old project file. This runs the un-enhanced version of my software.
 
