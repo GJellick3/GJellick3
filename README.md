@@ -1,6 +1,6 @@
 # ePortfolio
 
-Hello any and all viewers. This is my (Gaidge Jellick) portfolio on the majority of what I learned in college while going for my Bachelor's Degree in Computer Science.
+Hello any and all viewers. This is my (Gaidge Jellick) portfolio for my Computer Science Capstone.
 
 It covers a specific set of enhancements I made to one of my previous final projects on a weight-tracking application. These enhancements not only show off my skills and knowledge from what college has taught me, but also how my brain thinks as a computer science major. 
 
