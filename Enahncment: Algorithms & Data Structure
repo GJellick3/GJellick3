@@ -1,0 +1,17 @@
+This ReadMe goes over my Enhacnments of Algorithms and Data Structues.
+
+For this milestone, I wanted to add a new algorithm to show more steady information for the user. 
+This improvement helps users to be able to quickly see the overall trend as well as the average weight they’ve had throughout their weight tracking journey. 
+I chose this artifact because I think it would be a great example of my software development skills as well as how I handle new algorithms and data structures being added to an existing system.
+
+Within Activity_Data.xml:
+	I added a new viewer for the Average weight and weight trend so that the users can see the new algorithms built into the system. 
+
+Within WeightEntry.java:
+	I made sure that there was a public return for the “weight” variable, which there is.
+
+Created a new .java called WeightAnalyzer:
+	I made a new class to do the handling of the new algorithms for average and trend. It is a simple class that calculates the average and returns it, as well as checking if the trend is either gaining/losing/stable weight. 
+
+Within DataActivity:
+	I adjusted small values to reflect the new information tracked by WeightAnalyzer, such as detecting the trend, updating the UI, and importing txtAverage (which is my average output) and txtTrend (which is my trend output). 
