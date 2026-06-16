@@ -1,0 +1,16 @@
+This ReadMe goes over the Enhancements I made to the Databases.
+
+I wanted to adjust how data is held within the system (the databases) to make it a little more coherent, as well as allow for live updating of any included data. 
+I chose this artifact because I truly enjoyed this assignment and think it can hold more / be improved upon. 
+
+Within Activity_Data.xml:
+	I added a better card for holding the trends data that I added in the previous enhancement, as well as made it more relevant. 
+
+Within DatabaseHelper.java:
+	I adjusted the system to use SQL-based information, removing the need for WeightEntry.java (simplifying the system's data handler).
+
+Adjusted WeightAdapter.java:
+	I made adjustments to WeightAdapter.java to handle the new information, as well as hold the functions for editing an input and deleting one. (Live updates to the database). 
+
+Within item_weight.xml:
+	I changed around the layout, made more card/material-based buttons, as I like the look of them a lot for the system. I also added a couple more buttons, specifically the Delete and Edit buttons. 
